@@ -2,6 +2,123 @@
 
 # Changelog
 
+### [Version 1.51.3](https://github.com/lobehub/lobe-chat/compare/v1.51.2...v1.51.3)
+
+<sup>Released on **2025-02-05**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Refactor Wenxin with LobeOpenAICompatibleFactory.
+
+#### 🐛 Bug Fixes
+
+- **misc**: Artifact Parsing and Rendering Bug Fix for Gemini 2.0 Flash.
+
+#### 💄 Styles
+
+- **misc**: Add Cache, Metadata, FeatureFlag Viewer to DevPanel.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Refactor Wenxin with LobeOpenAICompatibleFactory, closes [#5729](https://github.com/lobehub/lobe-chat/issues/5729) ([a90a75e](https://github.com/lobehub/lobe-chat/commit/a90a75e))
+
+#### What's fixed
+
+- **misc**: Artifact Parsing and Rendering Bug Fix for Gemini 2.0 Flash, closes [#5633](https://github.com/lobehub/lobe-chat/issues/5633) ([7d782b1](https://github.com/lobehub/lobe-chat/commit/7d782b1))
+
+#### Styles
+
+- **misc**: Add Cache, Metadata, FeatureFlag Viewer to DevPanel, closes [#5764](https://github.com/lobehub/lobe-chat/issues/5764) ([db4e9c7](https://github.com/lobehub/lobe-chat/commit/db4e9c7))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.51.2](https://github.com/lobehub/lobe-chat/compare/v1.51.1...v1.51.2)
+
+<sup>Released on **2025-02-05**</sup>
+
+#### 💄 Styles
+
+- **misc**: Update model list, add reasoning tag.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Update model list, add reasoning tag, closes [#5696](https://github.com/lobehub/lobe-chat/issues/5696) ([dedd784](https://github.com/lobehub/lobe-chat/commit/dedd784))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.51.1](https://github.com/lobehub/lobe-chat/compare/v1.51.0...v1.51.1)
+
+<sup>Released on **2025-02-05**</sup>
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.51.0](https://github.com/lobehub/lobe-chat/compare/v1.50.5...v1.51.0)
+
+<sup>Released on **2025-02-05**</sup>
+
+#### ✨ Features
+
+- **misc**: Add reasoning tag support for custom models via UI or ENV.
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix deepseek-v3 & qvq model tag fetch error from SiliconCloud, fix model ability missing.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Add reasoning tag support for custom models via UI or ENV, closes [#5684](https://github.com/lobehub/lobe-chat/issues/5684) ([3499403](https://github.com/lobehub/lobe-chat/commit/3499403))
+
+#### What's fixed
+
+- **misc**: Fix deepseek-v3 & qvq model tag fetch error from SiliconCloud, closes [#5741](https://github.com/lobehub/lobe-chat/issues/5741) ([ee61653](https://github.com/lobehub/lobe-chat/commit/ee61653))
+- **misc**: Fix model ability missing, closes [#5739](https://github.com/lobehub/lobe-chat/issues/5739) ([0e1a022](https://github.com/lobehub/lobe-chat/commit/0e1a022))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.50.5](https://github.com/lobehub/lobe-chat/compare/v1.50.4...v1.50.5)
 
 <sup>Released on **2025-02-04**</sup>
